@@ -1,3 +1,3 @@
 # Ethan Vu
 
-HSoftware Enginer.
+I'm a Software Enginer.
